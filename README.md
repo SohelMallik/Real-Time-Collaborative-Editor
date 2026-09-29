@@ -280,7 +280,7 @@ Please use the provided [issue templates](.github/ISSUE_TEMPLATE/) for bug repor
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-Copyright © 2026 **Sohel Mallik**
+
 
 ---
 
