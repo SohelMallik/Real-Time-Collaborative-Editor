@@ -1,2 +1,4 @@
+# Ignore environment variables file so secrets are not copied into the Docker image
 .env
+# Ignore local node_modules so Docker installs clean dependencies inside the container
 node_modules
